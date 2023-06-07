@@ -1,2 +1,2 @@
-DSA 13 Practicals
+DSA 13 Practicals by Vishva Wagh
 
